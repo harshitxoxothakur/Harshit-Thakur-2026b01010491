@@ -1,0 +1,60 @@
+Order_ID,Order_Date,Region,Game,Genre,Platform,Units,Unit_Price,Publisher
+0001,2026-01-24,East,FIFA 25,Sports,PlayStation,4,4499,Microsoft
+0002,2026-02-22,North,Call of Duty,Shooter,Xbox,10,4999,EA
+0003,2026-01-03,South,Elden Ring,RPG,PC,4,3999,Activision
+0004,2026-01-18,north,Genshin Impact Pack,RPG,Mobile,12,1499,Krafton
+0005,2026-07-08,West,Valorant Points,Shooter,PC,10,999,Nintendo
+0006,2026-03-23,West,Elden Ring,RPG,PC,6,3999,Nintendo
+0007,2026-04-25,East,Call of Duty,Shooter,Xbox,2,4999,Sony
+0008,2026-02-12,  West ,Zelda Tears Kingdom,Adventure,Nintendo,10,5999,Nintendo
+0009,2026-08-18,North,Elden Ring,RPG,PC,7,3999,Sony
+0010,2026-05-27,East,Valorant Points,Shooter,PC,10,999,Microsoft
+0011,2026-01-22,South,FIFA 25,Sports,PlayStation,5,4499,Sony
+0012,2026-02-13,East,  minecraft,Sandbox,PC,8,1999,Krafton
+0013,2026-03-12,East,Forza Horizon 5,Racing,Xbox,4,3499,Krafton
+0014,2026-02-20,South,GTA V,Action,PlayStation,9,2499,Krafton
+0015,2026-03-15,West,Minecraft,Sandbox,PC,5,1999,Krafton
+0016,2026-04-22,East,Valorant Points,Shooter,pc ,1,999,Microsoft
+0017,2026-06-13,East,Elden Ring,RPG,PC,2,3999,Microsoft
+0018,2026-06-07,West,Genshin Impact Pack,RPG,Mobile,7,1499,Krafton
+0019,2026-03-09,South,BGMI Elite Pass,Battle Royale,Mobile,4,799,Krafton
+0020,2026-09-09,West,Valorant Points,Shooter,PC,,999,EA
+0021,2026-04-05,West,Forza Horizon 5,Racing,Xbox,2,3499,Sony
+0022,2026-03-21,South,FIFA 25,Sports,PlayStation,11,4499,EA
+0023,2026-02-13,West,Genshin Impact Pack,RPG,Mobile,10,1499,EA
+0024,2026-05-18,North,Valorant Points,Shooter,PC,two,999,Krafton
+0025,2026-09-25,East,FIFA 25,Sports,PlayStation,11,4499,Nintendo
+0026,2026-05-14,South,FIFA 25,Sports,PlayStation,8,4499,Sony
+0027,2026-09-25,South,GTA V,Action,PlayStation,9,2499,Sony
+0028,2026-09-20,South,GTA V,Action,PlayStation,3,-1999,Nintendo
+0029,2026-09-25,North,Call of Duty,Shooter,Xbox,10,4999,Nintendo
+0030,2026-01-04,East,BGMI Elite Pass,Battle Royale,Mobile,5,799,Microsoft
+0031,2026-04-19,North,Elden Ring,RPG,PC,2,3999,Krafton
+0032,2026-02-25,South,BGMI Elite Pass,Battle Royale,Mobile,0,799,Krafton
+0033,2026-09-06,East,BGMI Elite Pass,Battle Royale,Mobile,9,799,Activision
+0034,2026-04-18,South,Zelda Tears Kingdom,Adventure,Nintendo,12,5999,Nintendo
+0035,2026-06-15,West,Zelda Tears Kingdom,Adventure,Nintendo,2,5999,Microsoft
+0036,not available,North,Minecraft,Sandbox,PC,10,1999,Activision
+0037,2026-10-08,North,Minecraft,Sandbox,PC,2,1999,Krafton
+0038,2026-04-03,North,Elden Ring,RPG,PC,6,3999,Sony
+0039,2026-04-09,West,Valorant Points,Shooter,PC,4,999,Activision
+0040,2026-10-19,West,Call of Duty,Shooter,Xbox,4,4999,
+0041,2026-04-04,North,Zelda Tears Kingdom,Adventure,Nintendo,11,5999,EA
+0042,2026-07-14,West,Forza Horizon 5,Racing,Xbox,12,3499,Sony
+0043,2026-01-13,East,FIFA 25,Sports,PlayStation,2,4499,Microsoft
+0044,2026-04-18,,Minecraft,Sandbox,PC,3,1999,EA
+0045,2026-05-15,South,Call of Duty,Shooter,Xbox,2,4999,EA
+0046,2026-02-02,North,Valorant Points,Shooter,PC,2,999,Microsoft
+0047,2026-07-16,West,Call of Duty,Shooter,Xbox,4,4999,EA
+0048,2026-03-13,North,Elden Ring,RPG,PC,7,3999,Nintendo
+0049,2026-05-14,West,BGMI Elite Pass,Battle Royale,Mobile,3,799,Microsoft
+0050,2026-04-02,North,GTA V,Action,PlayStation,12,2499,Nintendo
+0051,2026-01-19,West,Elden Ring,RPG,PC,9,3999,Activision
+0052,2026-01-17,North,Call of Duty,Shooter,Xbox,3,4999,Sony
+0053,2026-02-22,South,Genshin Impact Pack,RPG,Mobile,7,1499,Sony
+0054,2026-04-19,North,Genshin Impact Pack,RPG,Mobile,10,1499,Sony
+0055,2026-10-19,East,Zelda Tears Kingdom,Adventure,Nintendo,5,5999,Microsoft
+0056,2026-04-09,West,Forza Horizon 5,Racing,Xbox,3,3499,Krafton
+0057,2026-08-11,North,GTA V,Action,PlayStation,1,2499,EA
+0006,2026-03-23,West,Elden Ring,RPG,PC,6,3999,Nintendo
+0021,2026-04-05,West,Forza Horizon 5,Racing,Xbox,2,3499,Sony
